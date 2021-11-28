@@ -1,2 +1,2 @@
 # manpower
-share my work at Manpower
+my work at Manpower
